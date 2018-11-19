@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoCSharpe2emeSemaine", "ExoCSharpe2emeSemaine\ExoCSharpe2emeSemaine.csproj", "{3F45C5AB-3432-49ED-B2B3-AA4151DB4806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F45C5AB-3432-49ED-B2B3-AA4151DB4806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F45C5AB-3432-49ED-B2B3-AA4151DB4806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F45C5AB-3432-49ED-B2B3-AA4151DB4806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F45C5AB-3432-49ED-B2B3-AA4151DB4806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9459A31E-DAD0-458D-8630-8985C9A5E748}
+	EndGlobalSection
+EndGlobal
